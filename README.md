@@ -39,5 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### 目次
 
-- はじめてのGitHub Pages [[リンク](./github_page/README.md)]
+- はじめてのGitHub Pages [[リンク](./github_pages/README.md)]
 - はじめてのMarkdown [[リンク](./markdown/README.md)]
