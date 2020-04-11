@@ -4,7 +4,7 @@ Markdownは、GitHubなどで用いられる軽くて、使いやすい文書を
 
 # 目次
 - [これから何を学ぶのか](#これから何を学ぶのか)
-- [Markdownとは何か?](#Markdownとは何か?)
+- [Markdownとは何か](#Markdownとは何か)
 
 
 # これから何を学ぶのか
@@ -19,12 +19,12 @@ Markdownは、GitHubなどで用いられる軽くて、使いやすい文書を
 - GitHubでのMarkdown拡張機能
 
 >- How the Markdown format makes styled collaborative editing easy
-- How Markdown differs from traditional formatting approaches
-- How to use Markdown to format text
-- How to leverage GitHub’s automatic Markdown rendering
-- How to apply GitHub’s unique Markdown extensions
+>- How Markdown differs from traditional formatting approaches
+>- How to use Markdown to format text
+>- How to leverage GitHub’s automatic Markdown rendering
+>- How to apply GitHub’s unique Markdown extensions
 
-# Markdownとは何か?
+# Markdownとは何か
 
 >What is Markdown?
 
