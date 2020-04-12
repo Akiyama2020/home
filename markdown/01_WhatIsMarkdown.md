@@ -4,8 +4,8 @@ Markdownは、GitHubなどで用いられる軽くて、使いやすい文書を
 
 > List of contents
 
-- [これから何を学ぶのか](# これから何を学ぶのか)
-- [Markdownとは何か](# Markdownとは何か)
+- [これから何を学ぶのか](#これから何を学ぶのか)
+- [Markdownとは何か](#Markdownとは何か)
 
 
 # これから何を学ぶのか
