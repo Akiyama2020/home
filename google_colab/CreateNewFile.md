@@ -32,7 +32,10 @@ https://colab.research.google.com/notebooks/intro.ipynb
 
 ![try hello world](./images/google_colab_hello_world_3.PNG)
 
+## 参照リンク
+> Reference
 
+[FaQ](https://research.google.com/colaboratory/faq.html)
 
 ## Pageリンク
 > Page Links
