@@ -1,9 +1,10 @@
 [[はじめてのMarkdown](./README.md)] / [[HOME](./../README.md)]
 
+# Markdownとは
 
 Markdownは、GitHubなどで用いられる軽くて、使いやすい文書を成形するための構文です。
 
-# 目次
+## 目次
 
 > List of contents
 
@@ -11,7 +12,7 @@ Markdownは、GitHubなどで用いられる軽くて、使いやすい文書を
 - [Markdownとは何か](#markdownとは何か)
 
 
-# これから何を学ぶのか
+## これから何を学ぶのか
 
 > What will you learn?
 
@@ -19,7 +20,7 @@ Markdownは、GitHubなどで用いられる軽くて、使いやすい文書を
 - Markdownを用いた文章成形方法
 - GitHubでのMarkdown拡張機能
 
-# Markdownとは何か
+## Markdownとは何か
 
 > What is Markdown?
 
@@ -31,7 +32,7 @@ Markdownは、Web文章を成形するときに用いられる手法の一つで
 
 MarkdownはGitHubやブログサイトなど様々なところで使うことができます。
 
-# Pageリンク
+## Pageリンク
 > Page Links
 
 - [ページTop](#目次)
