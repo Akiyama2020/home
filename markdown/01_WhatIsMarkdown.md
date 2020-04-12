@@ -1,3 +1,6 @@
+[[はじめてのMarkdown](./README.md)] / [[HOME](./../README.md)]
+
+
 Markdownは、GitHubなどで用いられる軽くて、使いやすい文書を成形するための構文です。
 
 # 目次
@@ -28,3 +31,9 @@ Markdownは、Web文章を成形するときに用いられる手法の一つで
 
 MarkdownはGitHubやブログサイトなど様々なところで使うことができます。
 
+# Pageリンク
+> Page Links
+
+- [ページTop](#目次)
+- [はじめてのMarkdown](./README.md)
+- [HOME](./../README.md)
