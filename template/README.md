@@ -28,4 +28,4 @@ print(`hello`)
 - [Google](https://www.google.com/)
 
 ---
-[[ページTop](#目次)] / [[はじめてのReadMe](./README.md)] / [[HOME](./../README.md)]
+[[ページTopに戻る](#目次)] / [[はじめてのReadMe](./README.md)] / [[HOME](./../README.md)]
