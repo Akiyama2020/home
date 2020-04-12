@@ -3,12 +3,11 @@
 
 少しでも皆様のお役に立てればうれしいです。
 
-# 目次
+## 目次
 - [第1回 Markdownとは](./01_WhatIsMarkdown.md)
+- [第2回 見出しの書き方](./02_HowToUseHeaders.md)
 
-# Sample
-
-### Markdown
+## Sample Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
