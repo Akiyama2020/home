@@ -4,8 +4,8 @@
 # はじめてのGoogle Colab
 
 01. [Google Colabとは](./01_WhatIsGoogleColab.md)
-01. [Google Colabの始め方](./02_CreateNewFile.md)
-
+02. [Google Colabの始め方](./02_CreateNewFile.md)
+03. [print](./src/01_print.ipynb)
 ## Pageリンク
 
 - [HOME](./../README.md)
