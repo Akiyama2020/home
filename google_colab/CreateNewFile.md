@@ -7,10 +7,31 @@
 > List of contents
 
 ## Google Colabのページへアクセス
+まずはgoogle Colabのページへアクセスしてください。
+
+https://colab.research.google.com/notebooks/intro.ipynb
+
 
 ![Google Colab Top](./images/google_colab_top.PNG)
 
-https://colab.research.google.com/notebooks/intro.ipynb
+
+## ノートブックの新規作成
+「ファイル」から「ノートブックを新規作成」を選んでください。
+
+![create notebook](./images/google_colab_create_notebook_1.PNG)
+
+![create notebook](./images/google_colab_create_notebook_2.PNG)
+
+![create notebook](./images/google_colab_create_notebook_3.PNG)
+
+## 試しに実行してみる
+
+![try hello world](./images/google_colab_hello_world_1.PNG)
+
+![try hello world](./images/google_colab_hello_world_2.PNG)
+
+![try hello world](./images/google_colab_hello_world_3.PNG)
+
 
 
 ## Pageリンク
