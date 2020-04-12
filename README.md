@@ -10,6 +10,6 @@
 ### 工事中
 
 - [はじめてのGitHubPages](./github_pages/README.md)
-- [はじめてのAtom](./atom/README.md)]
-- [はじめてのGitHub](./github/README.md)]
-- [はじめてのGit](./git/README.md)]
+- [はじめてのAtom](./atom/README.md)
+- [はじめてのGitHub](./github/README.md)
+- [はじめてのGit](./git/README.md)
