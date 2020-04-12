@@ -25,5 +25,6 @@ Markdownは、Web文章を成形するときに用いられる手法の一つで
 図やリストを文書内に挿入することができます。
 
 > Where can we use Markdown?
+
 MarkdownはGitHubやブログサイトなど様々なところで使うことができます。
 
