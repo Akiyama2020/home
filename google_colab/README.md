@@ -3,7 +3,7 @@
 
 # はじめてのGoogle Colab
 
-01. [Google C0labとは](./WhatIsGoogleColab.md)
+01. [Google Colabとは](./WhatIsGoogleColab.md)
 
 ## Pageリンク
 
