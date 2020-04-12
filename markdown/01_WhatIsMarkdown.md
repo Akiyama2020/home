@@ -2,7 +2,7 @@ Markdownは、GitHubなどで用いられる軽くて、使いやすい文書を
 
 # 目次
 
-> Contents
+> List of contents
 
 - [これから何を学ぶのか](#これから何を学ぶのか)
 - [Markdownとは何か](#Markdownとは何か)
@@ -10,7 +10,7 @@ Markdownは、GitHubなどで用いられる軽くて、使いやすい文書を
 
 # これから何を学ぶのか
 
->What you will learn:
+> What will you learn?
 
 - Markdownと従来手法の違い
 - Markdownを用いた文章成形方法
@@ -18,11 +18,12 @@ Markdownは、GitHubなどで用いられる軽くて、使いやすい文書を
 
 # Markdownとは何か
 
->What is Markdown?
+> What is Markdown?
 
 Markdownは、Web文章を成形するときに用いられる手法の一つです。
 #や*などの記号を用いて、文字のスタイリングをイタリック文字や太文字などへの変換したり、
 図やリストを文書内に挿入することができます。
 
+> Where can we use Markdown?
 MarkdownはGitHubやブログサイトなど様々なところで使うことができます。
 
