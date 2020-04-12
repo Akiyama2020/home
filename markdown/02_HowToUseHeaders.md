@@ -1,12 +1,13 @@
 [[はじめてのMarkdown](./README.md)] / [[HOME](./../README.md)]
 
+# 見出しの書き方
 
 Markdown（マークダウン）はとてもシンプルな記述言語です。
 文書を書くときの共通ルールみたいなもので、とにかくシンプルなのが特徴です。
 Markdown対応のエディタを使えば文書が読みやすく表示されるので知っていると便利です。
 今回は「見出しの書き方」を学びます。
 
-# 目次
+## 目次
 > List of contents
 
 - [見出しの書き方](#見出しの書き方)
@@ -14,7 +15,7 @@ Markdown対応のエディタを使えば文書が読みやすく表示される
 - [参考リンク](#参考リンク)
 
 
-# 見出しの書き方
+## 見出しの書き方
 > How to Use Header Tag
 
 タイトルの前に#(ハッシュ)を記述することで、見出しを表現できます。
@@ -63,7 +64,7 @@ Markdown対応のエディタを使えば文書が読みやすく表示される
 
 どうでしょうか?サンプル見出しレベル7はどのように表現されていますか?
 
-# 参考リンク
+## 参考リンク
 > Regerence Links
 
 [Markdownプロジェクト](https://daringfireball.net/projects/markdown/)
@@ -72,7 +73,7 @@ Markdown対応のエディタを使えば文書が読みやすく表示される
 
 [GitHubヘルプ](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-# Pageリンク
+## Pageリンク
 > Page Links
 
 - [ページTop](#目次)
