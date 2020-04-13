@@ -8,6 +8,7 @@
 
 - [はじめてのMarkdown](./markdown/README.md)
 - [はじめてのGoogle Colab](./google_colab/README.md)
+- [はじめてのHTML](./html/README.md)
 
 ### 工事中
 
