@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+    <title>簡単な文章を作成する</title>
+  </head>
+  <body>
+    <h1 id="ID_タイトル">簡単な文章を作成する</h1>
+    <h3>目標：HTMLで文章を書く<h3>
+    <h2 id="ID_目次">概要</h2>
+    <ol>
+      <li><a href="#ID_01">&lt;p&gt;による表現</a></li>
+      <li><a href="#ID_02">&lt;div&gt;による表現</a></li>
+      <li><a href="#ID_03">&lt;span&gt;による表現</a></li>
+      <li><a href="#ID_04">&lt;h1&gt;による表現</a></li>
+      <li><a href="#ID_05">&lt;h2&gt;による表現</a></li>
+      <li><a href="#ID_06">&lt;h3&gt;による表現</a></li>
+    </ol>
+
+
+    <h2 id="ID_01">表示1. &lt;p&gt;による表現</h2>
+    <p>[解説]　&lt;p&gt;はブロック要素。改行あり。行間が広い。</p>
+    <table>
+      <tbody>
+        <tr height="40px">
+          <td>HTML</td>
+          <td width="600px"><b><i>&lt;p&gt;あいうえお&lt;/p&gt;&lt;p&gt;かきくけこ&lt;/p&gt;&lt;p&gt;さしすせそ&lt;/p&gt;</i></b></td>
+        </tr>
+        <tr height="100px">
+          <td>表示</td>
+          <td><p>あいうえお</p><p>かきくけこ</p><p>さしすせそ</p></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+
+    <h2 id="ID_02">表示2. &lt;div&gt;による表現</h2>
+    <p>[解説]　&lt;div&gt;は汎用ブロック要素。改行あり。行間が狭い。</p>
+    <table>
+      <tbody>
+        <tr height="40px">
+          <td>HTML</td>
+          <td width="600px"><b><i>&lt;div&gt;あいうえお&lt;/div&gt;&lt;div&gt;かきくけこ&lt;/div&gt;&lt;div&gt;さしすせそ&lt;/div&gt;</i></b></td>
+        </tr>
+        <tr height="100px">
+          <td>表示</td>
+          <td><div>あいうえお</div><div>かきくけこ</div><div>さしすせそ</div></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+
+    <h2 id="ID_03">表示3. &lt;span&gt;による表現</h2>
+    <p>[解説]　&lt;span&gt;は汎用インライン要素。改行なし。</p>
+    <table>
+      <tbody>
+        <tr height="40px">
+          <td>HTML</td><td width="600px"><b><i>&lt;span&gt;あいうえお&lt;/span&gt;&lt;span&gt;かきくけこ&lt;/span&gt;&lt;span&gt;さしすせそ&lt;/span&gt;</i></b></td>
+        </tr>
+        <tr height="100px">
+          <td>表示</td>
+          <td><span>あいうえお</span><span>かきくけこ</span><span>さしすせそ</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+
+    <h2 id="ID_04">表示4. &lt;h1&gt;による表現</h2>
+    <p>[解説]　&lt;h1&gt;はタイトル要素。改行あり。太字。文字サイズ大。</p>
+    <table>
+      <tbody>
+        <tr height="40px">
+          <td>HTML</td>
+          <td width="600px"><b><i>&lt;h1&gt;あいうえお&lt;/h1&gt;&lt;h1&gt;かきくけこ&lt;/h1&gt;&lt;h1&gt;さしすせそ&lt;/h1&gt;</i></b></td>
+        </tr>
+        <tr height="120px">
+          <td>表示</td>
+          <td><h1 class="normal">あいうえお</h1><h1 class="normal">かきくけこ</h1><h1 class="normal">さしすせそ</h1></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+
+    <h2 id="ID_05">表示5. &lt;h2&gt;による表現</h2>
+    <p>[解説]　&lt;h2&gt;はタイトル要素。改行あり。太字。文字サイズ中。</p>
+    <table>
+      <tbody>
+        <tr height="40px">
+          <td>HTML</td>
+          <td width="600px"><b><i>&lt;h2&gt;あいうえお&lt;/h2&gt;&lt;h2&gt;かきくけこ&lt;/h2&gt;&lt;h2&gt;さしすせそ&lt;/h2&gt;</i></b></td>
+        </tr>
+        <tr height="120px">
+          <td>表示</td>
+          <td><h2 class="normal">あいうえお</h2><h2 class="normal">かきくけこ</h2><h2 class="normal">さしすせそ</h2></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+
+    <h2 id="ID_06">表示6. &lt;h3&gt;による表現</h2>
+    <p>[解説]　&lt;h3&gt;はタイトル要素。改行あり。</p>
+    <table>
+      <tbody>
+        <tr height="40px">
+          <td>HTML</td>
+          <td width="600px"><b><i>&lt;h3&gt;あいうえお&lt;/h3&gt;&lt;h3&gt;かきくけこ&lt;/h3&gt;&lt;h3&gt;さしすせそ&lt;/h3&gt;</b></i></td>
+        </tr>
+        <tr height="120px">
+          <td>表示</td>
+          <td><h3>あいうえお</h3><h3>かきくけこ</h3><h3>さしすせそ</h3></td>
+        </tr>
+      </tbody>
+    </table>
+    <p><a href="#ID_タイトル">ページTOP</a></p>
+  </body>
+</html>
