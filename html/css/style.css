@@ -1,0 +1,31 @@
+h1 {
+  padding: 0.2em;
+  color: #494949;
+  background: #fffaf4;
+  border-left: solid 15px #ffaf58;
+  border-bottom: solid 3px #d7d7d7;
+}
+.normal{
+  padding: initial;
+  color: initial;
+  background: initial;
+  border-left: initial;
+  border-bottom: initial;
+}
+
+h2 {
+  padding: 0.1em;
+  border-left: solid 20px #ffaf58;
+}
+.normal{
+  padding: initial;
+  border-left: initial;
+}
+
+table, td {
+  border: 1px solid black;
+}
+
+tr {
+  text-align: center;
+}
