@@ -5,7 +5,7 @@ h1 {
   border-left: solid 15px #ffaf58;
   border-bottom: solid 3px #d7d7d7;
 }
-.normal{
+h1.normal {
   padding: initial;
   color: initial;
   background: initial;
@@ -17,7 +17,7 @@ h2 {
   padding: 0.1em;
   border-left: solid 20px #ffaf58;
 }
-.normal{
+h2.normal {
   padding: initial;
   border-left: initial;
 }
@@ -28,4 +28,8 @@ table, td {
 
 tr {
   text-align: center;
+}
+
+img.w300 {
+  width: 300px;
 }
