@@ -103,6 +103,12 @@ body {
 ## hober
 a:hober{}
 
+## hober
+```
+  div:hover {
+    transform: scale(1.1);
+  }
+```
 ## relative
 position: relative;
     left: 15px;
@@ -114,3 +120,6 @@ position: fixed;
     top: 0px;
     left: 0px;
 ```
+
+## color
+background: linear-gradient(30deg, #CCFFFF, #FFCCCC);
