@@ -34,3 +34,39 @@
     <button type="submit">Submit</button>
   </form>
 ```
+
+### box
+```
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+  }
+```
+
+## unit
+- px pixels
+- in inches
+- mm millimeters
+relative 
+
+## id class
+```
+ #orange-text {
+    color: orange;
+  }
+```
+```
+ #orange-text {
+    color: orange;
+  }
+```
+
+## inline
+```
+<h1 style="color: green;" id="orange-text" class="pink-text blue-text">Hello World!</h1>
+```
