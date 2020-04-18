@@ -5,21 +5,10 @@ h1 {
   border-left: solid 15px #ffaf58;
   border-bottom: solid 3px #d7d7d7;
 }
-h1.normal {
-  padding: initial;
-  color: initial;
-  background: initial;
-  border-left: initial;
-  border-bottom: initial;
-}
 
 h2 {
   padding: 0.1em;
   border-left: solid 20px #ffaf58;
-}
-h2.normal {
-  padding: initial;
-  border-left: initial;
 }
 
 table, td {
@@ -30,6 +19,14 @@ tr {
   text-align: center;
 }
 
-img.w300 {
+.normal {
+  color: initial;
+  background: initial;
+  padding: initial;
+  border-left: initial;
+  border-bottom: initial;
+}
+
+.w300 {
   width: 300px;
 }
