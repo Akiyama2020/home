@@ -108,3 +108,9 @@ position: relative;
     left: 15px;
     bottom: 10px;
 
+## fixed position
+```
+position: fixed;
+    top: 0px;
+    left: 0px;
+```
