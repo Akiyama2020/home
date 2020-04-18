@@ -78,9 +78,33 @@ relative
   }
  ```
  
- ## color
-Color Hex Code
-Dodger Blue #1E90FF
-Green #00FF00
-Orange #FFA500
-Red #FF0000
+## color
+- Color Hex Code
+- Dodger Blue #1E90FF
+- Green #00FF00
+- Orange #FFA500
+- Red #FF0000
+
+## color
+```
+body {
+  background-color: rgb(255, 165, 0);
+}
+```
+
+## hr
+<hr>
+
+## font-weight
+    font-weight: 800;
+## line-height
+    line-height: 25px;
+
+## hober
+a:hober{}
+
+## relative
+position: relative;
+    left: 15px;
+    bottom: 10px;
+
