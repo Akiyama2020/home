@@ -70,3 +70,17 @@ relative
 ```
 <h1 style="color: green;" id="orange-text" class="pink-text blue-text">Hello World!</h1>
 ```
+
+## important
+```
+ .pink-text {
+    color: pink !important;
+  }
+ ```
+ 
+ ## color
+Color Hex Code
+Dodger Blue #1E90FF
+Green #00FF00
+Orange #FFA500
+Red #FF0000
